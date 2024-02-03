@@ -1,10 +1,10 @@
-#Desafio PicPay
+# Desafio PicPay
 Este é um projeto desenvolvido como parte de um desafio inspirado nos ensinamentos do canal do YouTube da Fernanda Kipper. O objetivo principal deste projeto foi consolidar os conhecimentos adquiridos durante os estudos em Java e Spring Boot.
 
-Motivação
+# Motivação
 A motivação por trás deste projeto foi explorar e aprofundar meus conhecimentos em desenvolvimento Java usando o framework Spring Boot. Através do desafio proposto, pude praticar conceitos como DTOs, Controllers e Services, além de aprimorar minhas habilidades em manipulação de dados e construção de APIs RESTful.
 
-#Funcionalidades
+# Funcionalidades
 O projeto implementa as seguintes funcionalidades:
 
 Cadastro de usuários
@@ -17,7 +17,7 @@ Spring Boot
 Maven
 Como Usar
 
-#Para executar o projeto localmente, siga estas etapas:
+#  Executar o projeto localmente, siga estas etapas:
 
 Certifique-se de ter o Java JDK e o Maven instalados em sua máquina.
 Clone este repositório em seu ambiente local.
@@ -27,5 +27,5 @@ Copy code
 mvn spring-boot:run
 Após a inicialização bem-sucedida, você pode acessar a API localmente em http://localhost:8080/users.
 
-#Contribuição
+# Contribuição
 Contribuições são bem-vindas! Se você deseja contribuir com este projeto, por favor, abra uma issue para discutir as mudanças propostas.
